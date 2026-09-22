@@ -1,0 +1,41 @@
+media:
+  input: media
+  output: /media
+
+content:
+  - name: site
+    label: Site Bilgileri
+    type: file
+    path: site-settings.yml
+    fields:
+      - name: phone
+        label: Telefon
+        type: string
+
+      - name: whatsapp
+        label: WhatsApp
+        type: string
+
+      - name: instagram
+        label: Instagram
+        type: string
+
+      - name: trendyol
+        label: Trendyol
+        type: string
+
+      - name: facebook
+        label: Facebook
+        type: string
+
+      - name: address
+        label: Adres
+        type: text
+
+      - name: maps
+        label: Google Maps
+        type: string
+
+      - name: working_hours
+        label: Çalışma Saatleri
+        type: string
