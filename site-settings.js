@@ -5,7 +5,7 @@ const SITE = {
   whatsapp: "+905444957349",
   address: "Mağaza adresini buraya yaz",
   maps: "https://maps.google.com/",
-  instagram: "https://instagram.com/",
+  instagram: https://www.instagram.com/karmatekstil?stkn=MTUwcmZoMm00YmF4NQ==
   facebook: "https://facebook.com/",
   trendyol: "#",
   hours: "09:00 - 19:00"
