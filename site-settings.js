@@ -8,5 +8,5 @@ const SITE = {
   instagram: https://www.instagram.com/karmatekstil?stkn=MTUwcmZoMm00YmF4NQ==
   facebook: "https://facebook.com/",
   trendyol: "#",
-  hours: "09:00 - 19:00"
+  hours: "09:00 - 18:00"
 };
