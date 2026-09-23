@@ -2,7 +2,7 @@
 // Daha sonra bu dosyadaki tırnak içindeki alanları değiştirerek bağlantıları güncelleyebilirsin.
 const SITE = {
   phone: "05XX XXX XX XX",
-  whatsapp: "saiidalkus",
+  whatsapp: "+905444957349",
   address: "Mağaza adresini buraya yaz",
   maps: "https://maps.google.com/",
   instagram: "https://instagram.com/",
