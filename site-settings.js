@@ -6,7 +6,7 @@ const SITE = {
   address: "Mağaza adresini buraya yaz",
   maps: "https://maps.google.com/",
   instagram: https://www.instagram.com/karmatekstil?stkn=MTUwcmZoMm00YmF4NQ==
-  facebook: "https://facebook.com/",
+  facebook: facebook: "https://www.facebook.com/share/1BsybDBUyM/?mibextid=wwXIfr",
   trendyol: "#",
   
 };
